@@ -1,0 +1,3 @@
+justinkprince_twig_debug_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: JustinkprinceTwigDebugBundle:Default:index }
